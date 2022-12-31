@@ -42,6 +42,8 @@ Blog Site: [https://blog.mochicorp.com](https://blog.mochicorp.com)
 | 7 | [React Primitive](https://github.com/lelandrichardson/react-primitives) | Version update for React version compatibility | [link](https://github.com/lelandrichardson/react-primitives/pull/121)|
 | 8 | [React Admin](https://github.com/marmelab/react-admin) | API function improvement | [link](https://github.com/marmelab/react-admin/pull/7003)<br/> [link](https://github.com/marmelab/react-admin/pull/7102)|
 | 9 | [Stitches Native](https://github.com/Temzasse/stitches-native) | Bugfix core api, styled function | [link](https://github.com/Temzasse/stitches-native/pull/33)<br/> [link](https://github.com/Temzasse/stitches-native/pull/37) <br/> [link](https://github.com/Temzasse/stitches-native/pull/38) <br/> [link](https://github.com/Temzasse/stitches-native/pull/42)|
+| 10 | [Nest Commander](https://github.com/jmcdo29/nest-commander/pull/706) | New Api for register modules | [link](https://github.com/jmcdo29/nest-commander/pull/706) |
+
 
 ### My Original Libraries
 
