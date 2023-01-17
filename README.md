@@ -155,6 +155,7 @@ Blog Site: [https://blog.mochicorp.com](https://blog.mochicorp.com)
 ### Other Specific Skill
 
 - NPM Publishing (Monorepo, pnpm, yarn, npm)
+- SRE(terrafrom, ansible, kubernetes, spinnaker, cloudbuild)
 - GraphQL
 - Firebase
 - Schematics
