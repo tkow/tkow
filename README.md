@@ -63,7 +63,7 @@ Blog Site: [https://blog.mochicorp.com](https://blog.mochicorp.com)
 
 - Original DRM Emcryption system for Ebook
 - Direct scouting system implements chat messaging
-- Original Epub Reader available at cross platform
+- Original Epub Reader works around cross platform
 - Mobile App finding spots to enjoy tour
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tkow&theme=radical&hide_border=false&include_all_commits=true&hide=html&count_private=true&layout=compact&langs_count=10&include_private=true)
