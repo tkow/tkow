@@ -43,10 +43,13 @@ Blog Site: [https://blog.mochicorp.com](https://blog.mochicorp.com)
 | 8 | [React Admin](https://github.com/marmelab/react-admin) | API function improvement | [link](https://github.com/marmelab/react-admin/pull/7003)<br/> [link](https://github.com/marmelab/react-admin/pull/7102)|
 | 9 | [Stitches Native](https://github.com/Temzasse/stitches-native) | Bugfix core api, styled function | [link](https://github.com/Temzasse/stitches-native/pull/33)<br/> [link](https://github.com/Temzasse/stitches-native/pull/37) <br/> [link](https://github.com/Temzasse/stitches-native/pull/38) <br/> [link](https://github.com/Temzasse/stitches-native/pull/42)|
 | 10 | [Nest Commander](https://github.com/jmcdo29/nest-commander/pull/706) | New Api for registeration of commands | [link](https://github.com/jmcdo29/nest-commander/pull/706) |
+| 11 | [Tamagui](https://github.com/tamagui/tamagui) | Bugfix, watch mode | [link](https://github.com/tamagui/tamagui/pull/1759) |
+| 12 | [Nest Cli](https://github.com/nestjs/nest-cli　) | Bugfix, watch mode | [link](https://github.com/nestjs/nest-cli/pull/2293) |
 
 
 ### My Original Libraries
 
+- [syncenv](https://github.com/MOCHI-inc-JAPAN/syncenv)
 - [zippee](https://github.com/MOCHI-inc-JAPAN/zippee)
 - [firebase-function-client-type-gen](https://github.com/tkow/firebase-function-client-type-gen)
 - [class-fixtures-factory](https://github.com/MOCHI-inc-JAPAN/class-fixtures-factory) (forks from [CyriacBr/class-fixtures-factory](https://github.com/CyriacBr/class-fixtures-factory))
