@@ -44,7 +44,7 @@ Blog Site: [https://blog.mochicorp.com](https://blog.mochicorp.com)
 | 9 | [Stitches Native](https://github.com/Temzasse/stitches-native) | Bugfix core api, styled function | [link](https://github.com/Temzasse/stitches-native/pull/33)<br/> [link](https://github.com/Temzasse/stitches-native/pull/37) <br/> [link](https://github.com/Temzasse/stitches-native/pull/38) <br/> [link](https://github.com/Temzasse/stitches-native/pull/42)|
 | 10 | [Nest Commander](https://github.com/jmcdo29/nest-commander/pull/706) | New Api for registeration of commands | [link](https://github.com/jmcdo29/nest-commander/pull/706) |
 | 11 | [Tamagui Nextjs Plugin](https://github.com/tamagui/tamagui) | Bugfix, option exported nextjs plugin for app router build | [link](https://github.com/tamagui/tamagui/pull/1759) |
-| 12 | [Nest Cli](https://github.com/nestjs/nest-cli　) | Bugfix, watch mode | [link](https://github.com/nestjs/nest-cli/pull/2293) |
+| 12 | [Nest Cli](https://github.com/nestjs/nest-cli) | Bugfix, watch mode | [link](https://github.com/nestjs/nest-cli/pull/2293) |
 
 
 ### My Original Libraries
